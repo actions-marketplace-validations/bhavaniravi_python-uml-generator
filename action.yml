@@ -2,7 +2,7 @@
 
 name: Generate ERD
 description: 'Generate an ERD UML diagram and adds it to the repo and PR'
-icon:box
+icon: box
 runs:
   using: 'composite'
   steps:
